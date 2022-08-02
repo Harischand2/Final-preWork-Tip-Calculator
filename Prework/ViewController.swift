@@ -1,5 +1,5 @@
 //
-// THE tip__calculator_viewer is the file to be looked at for the code or the functionality of the app
+// tip__calculator_viewer is the file to be looked at for the code or the functionality of the app
 
 
 //  ViewController.swift
