@@ -1,4 +1,7 @@
 //
+// THE tip__calculator_viewer is the file to be looked at for the code or the functionality of the app
+
+
 //  ViewController.swift
 //  Prework
 //
@@ -39,7 +42,7 @@ class ViewController: UIViewController {
         totalLabel.text = String(format: "$%.2f", total)
         
     }
-    
+    // tHE 
 
 }
  
